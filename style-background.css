@@ -1,0 +1,36 @@
+body{
+    background-image: url("../img/espacio.png");
+    background-size: cover;
+
+}
+
+section nav div{
+
+}
+
+nav {
+    background-color: black !important;
+}
+
+p{
+    margin: 0%;
+    padding: 20px;
+}
+#gema-del-espacio{
+    background-color: rgba(52, 127, 189, 0.431) !important;
+}
+#gema-de-la-realidad{
+    background-color: rgba(214, 0, 0, 0.459);
+}
+#gema-del-poder{
+    background-color: rgba(99, 35, 160, 0.452)
+}
+#gema-del-alma{
+    background-color: rgba(255, 68, 0, 0.466)
+}
+#gema-de-la-mente {
+    background-color:rgba(255, 255, 0, 0.493)
+}
+#gema-del-tiempo{
+    background-color: rgba(3, 144, 3, 0.472)
+}
